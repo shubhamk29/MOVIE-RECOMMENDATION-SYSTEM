@@ -24,4 +24,5 @@ F. Scrapers
 A. Keep all the files in the same directory.  
 B. Install Jupyter notebook.  
 C. Install all the relevant python libraries.  
-D. Run the code.  
+D. Download the dataset from : https://www.kaggle.com/rounakbanik/the-movies-dataset  
+E. Run the code.  
