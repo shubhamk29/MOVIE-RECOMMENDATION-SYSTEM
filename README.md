@@ -16,4 +16,6 @@ We built two content based systems; one that took movie overview and taglines as
 A. movies_eda.ipynb  
 B. movies_recommender.ipynb  
 C. final Report.pdf    
-D. Dataset
+D. Dataset  
+E. Pycache  
+F. Scrapers
