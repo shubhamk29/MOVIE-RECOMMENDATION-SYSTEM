@@ -19,3 +19,9 @@ C. final Report.pdf
 D. Dataset  
 E. Pycache  
 F. Scrapers
+
+## STEPS TO RUN THE CODE
+A. Keep all the files in the same directory.
+B. Install Jupyter notebook.
+C. Install all the relevant python libraries.
+D. Run the code.
