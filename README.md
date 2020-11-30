@@ -24,5 +24,5 @@ F. Scrapers
 A. Keep all the files in the same directory.  
 B. Install Jupyter notebook.  
 C. Install all the relevant python libraries.  
-D. Download the full dataset from : https://grouplens.org/datasets/movielens/latest/ 
+D. Download the full dataset from : https://grouplens.org/datasets/movielens/latest/   
 E. Run the code.  
