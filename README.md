@@ -10,7 +10,7 @@ B. Data Cleaning
 C. EDA  
 D. Recommendaton System  
 
-We built two content based systems; one that took movie overview and taglines as input and the other which took metadata such as cast, crew, genre and keywords to generate predictions. In addition, a simple filter was also used to recomment the movies with more votes and higher ratings.
+We built two content based systems; one that took movie overview and taglines as input and the other which took metadata such as cast, crew, genre and keywords to generate predictions. In addition, a simple filter was also used to recommend the movies with more votes and higher ratings.
 
 ## REPOSITORY CONTENTS
 A. movies_eda.ipynb  
